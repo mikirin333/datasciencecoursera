@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Assignment for Data Scientist Toolbox course
+Assignment for Data Scientist Toolbox course project.
